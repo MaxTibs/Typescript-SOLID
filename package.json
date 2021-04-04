@@ -11,13 +11,16 @@
     "start:prod": "yarn run build && node build/index.js",
     "build": "rimraf ./build && tsc",
     "lint": "eslint . --ext .ts",
-    "prettier-format": "prettier --config .prettierrc 'src/**/*.ts' --write"
+    "prettier-format": "prettier --config .prettierrc 'src/**/*.ts' --write",
+    "test": "jest"
   },
   "devDependencies": {
+    "@types/jest": "^26.0.22",
     "@types/node": "^14.14.37",
     "@typescript-eslint/eslint-plugin": "^4.20.0",
     "@typescript-eslint/parser": "^4.20.0",
     "eslint": "^7.23.0",
+    "jest": "^26.6.3",
     "nodemon": "^2.0.7",
     "prettier": "^2.2.1",
     "rimraf": "^3.0.2",
