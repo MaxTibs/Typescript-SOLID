@@ -5,6 +5,22 @@ This projects aim to provide a set of tools/libraries to apply good coding pract
 * Unit testing (Jest)
 * Fast feedback loop
 
+## Scripts
+### Install
+```
+yarn
+```
+
+### Launch
+```
+yarn start
+```
+
+### Test
+```
+yarn test
+```
+
 ## Core packages
 ### Typescript
 Static Type checking to detect error at compile time.
