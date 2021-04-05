@@ -1,4 +1,4 @@
-# Typescript-SOLID
+# rebirth
 
 This project is a playground to learn SOLID principles ideally using TDD.
 

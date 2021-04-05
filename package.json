@@ -1,9 +1,9 @@
 {
-  "name": "nodejs-typescript-boilerplate",
+  "name": "rebirth",
   "version": "1.0.0",
   "description": "Nodejs base typescript project. Fork this project to start new typescript project.",
   "main": "index.js",
-  "repository": "git@github.com:MaxTibs/nodejs-typescript-boilerplate.git",
+  "repository": "git@github.com:MaxTibs/rebirth",
   "author": "Maxime Thibault <maxime.thibault.dev@gmail.com>",
   "license": "MIT",
   "scripts": {
